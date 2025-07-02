@@ -1,14 +1,11 @@
 [theme]
 
-primaryColor = #ADB3F5
+primaryColor = "#ADB3F5"
 
-# Background color of the app. (fondo de la página)
-backgroundColor = #8DEC97
+backgroundColor = "#8DEC97"
 
-# Background color used for most interactive widgets. (color de la barra lateral)
-secondaryBackgroundColor = #C8D5EF
+secondaryBackgroundColor = "#C8D5EF"
 
-# Color used for almost all text. (color de texto)
-textColor = #31333F
+textColor = "#31333F"
 
 font = "monospace"
